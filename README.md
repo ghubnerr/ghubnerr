@@ -4,12 +4,13 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 I'm an aspiring Full-Stack Developer and A.I. Engineer
 ------------------------------------------------------------
 
-Technology has always been a thing for me. But even more significantly so when I first became interested in the power of programming. I studied introductory computational neuroscience for a hobby about a year ago, and that was my "Hello World!" moment for me. It really opened my mind to the potential that coding has overall. From creating simple programs to using Machine Learning to interpret large data from fMRI brain scans, what a few hundred lines of code are able to do is beyond mind-blowing. If there's one thing I learned in my time amateuring in neuroscience, it was that our hability to learn new things is one of the most amazing and complex things about humans. I really have a passion for learning and growing as a person, and more specifically so as a programmer. I want to learn as many topics as I can, all the way from Data Science and Machine Learning to Software Engineering, grasping the whole of the complexities of these subjects to innovate and possibly make significant changes in the world with what I can create.
+Technology has always been a thing for me. But even more significantly so when I first became interested in the power of programming. I studied introductory computational neuroscience for a hobby about a year ago, and that was my "Hello World!" moment for me. It really opened my mind to the potential that coding has overall. From creating simple programs to using Machine Learning to interpret large data from fMRI brain scans, what a few hundred lines of code are able to do is beyond mind-blowing. If there's one thing I learned in my time amateuring in neuroscience, it was that our hability to learn new things is one of the most amazing and complex things about humans. It's part of the reason why I really value learning and growing as a person, and more specifically yet as a programmer. I want to learn as many topics as I can, all the way from Data Science and Machine Learning to Software Engineering, grasping the whole of the complexities of these subjects to innovate and possibly make significant changes in the world with what I can create.
 
 *   🌍  I'm based in Miami, Florida
 *   ✉️  You can contact me at [glucc002@fiu.edu](mailto:glucc002@fiu.edu)
 *   🧠  I'm learning Machine Learning and Model Deployment with TensorFlow, types of Neural Networks, iOS development with Swift and XCode, React front-end framework, Back-end development with Node, Express and MongoDB, as well as Flask & Django.
-*   🤝  I'm open to collaborating on any project ideas to apply and solidify my knoweldge with programming.
+*   🤝  I'm open to collaborating on any project ideas to apply and solidify my knoweldge with programming.\
+*   ⚡  Fun fact: I'm an international student from Brazil!
 
 ### Skills 
 <p align="left">
