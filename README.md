@@ -1,7 +1,7 @@
 Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gabriel!
 ================================================================================================================================
 
-I'm passionate for Full-Stack Developmen and A.I. Engineering.
+I'm passionate about Full-Stack Development and A.I. Engineering.
 
 &#8594; [ghubnerr.github.io](https://ghubnerr.github.io "Click to visit my website!") 
 ------------------------------------------------------------
@@ -10,7 +10,7 @@ Technology has always been a thing for me. But even more significantly so when I
 
 * 🌍  I'm based in Miami, Florida
 * ✉️  You can contact me at [glucc002@fiu.edu](mailto:glucc002@fiu.edu)
-* 🧠  Could talk hours about Machine Learning, Deep Learning and Generative Models! Front-end development is also genuinely amazing to work with. Back-end-- a close second... (MongoDB 💚). Currently, I'm focused on integrating FS-dev projects with NLP models hosted on VertexAI's Model Garden and Azure Machine Learning Studio. 
+* 🧠  Could talk hours about Machine Learning, Deep Learning and Generative Models! Front-end development is also genuinely amazing to work with. Back-end-- a close second... (MongoDB 💚). Currently, I'm focused on integrating FS projects with NLP models hosted on VertexAI's Model Garden and Azure Machine Learning Studio. 
 * 🤝  I'm open to collaborating on any project ideas to apply and solidify my knoweldge with programming.
 * ⚡  Fun fact: I'm an international student from Brazil!
 
