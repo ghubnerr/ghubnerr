@@ -3,7 +3,7 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 
 I'm passionate about Full-Stack Development and A.I. Engineering.
 
-&#8594; [gabehubner.dev](www.gabehubner.dev "Click to see more about me!") 
+&#8594; [gabehubner.dev](https://gabehubner.dev "Click to see more about me!") 
 ------------------------------------------------------------
 
 
