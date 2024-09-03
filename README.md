@@ -25,7 +25,7 @@ I'm a Computer Science Junior from Florida International University and passiona
   - Worked on scaling the usability of a cloud infrastructure platform to orchestrate Machine Learning and Robotics workflows.
   - Collaborated on the [OSMO platform](https://developer.nvidia.com/osmo), using tools like Jenkins, ArgoCD, FastAPI, Next.js, and Bazel.
   - Assisted in [GEAR (Generalist Embodied Agents Research)](https://research.nvidia.com/labs/gear/) Lab's research in Foundational Videogame Agents.
-- INIT FIU - AI Lead & Director of Technology (Summer 2024)
+- INIT FIU - AI Lead & Director of Technology (Jan 2024 - Present)
   - Taught weekly workshops on Machine Learning and Mathematics for a community of 35+ developers
   - Collectively read and implemented multiple research papers as part of weekly projects.
   - Collaborated to create the website to orchestrate [ShellHacks 2024](https://shellhacks.net/), with over 1,400 expected hackers. 
