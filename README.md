@@ -1,4 +1,4 @@
-Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) This is Gabriel :)
+Hi there! <img width="30" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/> This is Gabriel :)
 ================================================================================================================================
 
   <p>
@@ -10,9 +10,13 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
    gabehubner.dev
 </a>
   </p>
-I'm a Computer Science Junior from Florida International University and passionate about Applied Deep Learning research and Software Engineering. 
 
-- 🌱 I’m currently learning: JAX, CUDA, XLA, and Automatic Differentiation
+
+
+I'm a Computer Science Junior from Florida International University and passionate about Applied Deep Learning research and Software Engineering. I love to make an impact in my community and inspire curious people to do the same. I've previously worked at NVIDIA as an intern, and now partake in full-time research associated with LLMs, Robotcs and self-study diffusion models (+ All the math behind it).
+
+
+- 🌱 I’m currently learning: JAX, CUDA, the XLA API, and Automatic Differentiation
 - 🍓 Working on a DDPM project for real-time video generation
 
 ## Experience 
