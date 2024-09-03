@@ -5,7 +5,7 @@ Hi there! <img width="30" src="https://user-images.githubusercontent.com/1835055
  <a href="https://www.linkedin.com/in/gabriel-lucchesi" target="_blank" rel="noreferrer" style="color: inherit; display: inline-flex; align-items: center;">
    in/gabriel-lucchesi
 </a>
-  |
+<!--   |
 <a href="https://gabehubner.dev" target="_blank" rel="noreferrer" style="color: inherit; display: inline-flex; align-items: center;">
    gabehubner.dev
 </a>
@@ -13,7 +13,7 @@ Hi there! <img width="30" src="https://user-images.githubusercontent.com/1835055
 <a href="https://gabriel-lucchesi.notion.site" target="_blank" rel="noreferrer" style="color: inherit; display: inline-flex; align-items: center;">
    gabriel-lucchesi.notion.site
 </a>
-  </p>
+  </p> -->
 
 
 
