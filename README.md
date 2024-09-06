@@ -21,7 +21,7 @@ I'm a Computer Science Junior from Florida International University and passiona
 
 
 - 🌱 I’m currently learning: JAX, CUDA, the XLA API, and Automatic Differentiation
-- 🍓 Working on a DDPM project for real-time video generation
+- 🍓 Working on a LDM project for real-time video generation
 
 ## Experience 
 - [DARPA](https://www.usa.gov/agencies/defense-advanced-research-projects-agency#:~:text=Defense%20Advanced%20Research%20Projects%20Agency%20(DARPA)%20%7C%20USAGov) - Undergraduate Researcher (September 2024 - Present)
