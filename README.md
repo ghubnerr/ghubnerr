@@ -20,7 +20,7 @@ Hi there! <img width="30" src="https://user-images.githubusercontent.com/1835055
 I'm a Computer Science Junior from Florida International University and passionate about Applied Deep Learning research and Software Engineering. I love to make an impact in my community and inspire curious people to do the same. I've previously worked at NVIDIA as an intern, and now partake in full-time research associated with LLMs, Robotics and self-study diffusion models (+ All the math behind these things).
 
 
-- 🌱 I’m currently learning: JAX [see my Gists](https://gist.github.com/ghubnerr), CUDA , the XLA API, and Automatic Differentiation 
+- 🌱 I’m currently learning: JAX ([see my Gists](https://gist.github.com/ghubnerr)), CUDA , the XLA API, and Automatic Differentiation 
 - 🍓 Working on a StyleGAN project for real-time video generation
 
 ## Experience 
