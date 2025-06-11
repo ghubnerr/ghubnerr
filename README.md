@@ -24,7 +24,7 @@ I'm a Computer Science Junior from Florida International University and passiona
 
 #### Latest Implementations
 - [GPT-2 (124M) From Scratch](https://gist.github.com/ghubnerr/941eeb2a6a518370277860126f1674c8) - Trained on 10% of OpenWebText sharded on 8 A100s using JAX. Optimized for KV-Caching, achieving linear token/s performance. (+ Bonus: Applied Pallas attention kernels to boost performance)
-- [Variational Auto-Encoders for MNIST](https://github.com/ghubnerr/machine-learning/blob/main/jax/vae_mnist_jax.ipynb) → [See my lecture! (Starts at 18:54)](https://drive.google.com/file/d/1durmc8I3klzNn_v9ZlGqWZFbcLaKugvj/view?usp=sharing) - Implemented in Flax & Optax to reconstruct smooth interpolations of a latent space trained on MNIST representations.
+- [Variational Auto-Encoders for MNIST](https://github.com/ghubnerr/machine-learning/blob/main/jax/vae_mnist_jax.ipynb) → [See my lecture!](https://drive.google.com/file/d/1bJeMUmzmmNTTYp0aWamA18aLYC2EdLGi/view?usp=drivesdk) - Implemented in Flax & Optax to reconstruct smooth interpolations of a latent space trained on MNIST representations.
 - [Reinforcement Learning](https://colab.research.google.com/drive/1QJruRdXCN7dpyw1bqZQBJxwME_JA1ZzQ?usp=sharing) - RL Agents all the way from Q-Learning to Actor-Critic methods, in Flax
 - [NNs in JAX](https://github.com/ghubnerr/machine-learning/blob/main/jax/flax_cnns_rnns_lstms.ipynb) - RNNs, CNNs, LSTMs, and MLPs implemented in Flax.
 - [Tensor Autograd](https://gist.github.com/ghubnerr/1b1d0aa74ee4e0591d51fa2df7e7ea0d) - Auto-differentiation engine in Python for PyTorch-like Tensor API for SGD optimization in computational graphs and neural networks. Includes backward methods for backpropagation in reverse mode AD.
