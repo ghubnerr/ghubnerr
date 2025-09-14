@@ -19,8 +19,8 @@ Hi there! <img width="30" src="https://user-images.githubusercontent.com/1835055
 
 I'm a Computer Science Junior from Florida International University and passionate about Applied Deep Learning research and Software Engineering. I love to make an impact in my community and inspire curious people to do the same. Trying to make the world more sci-fi <3. I've previously worked at NVIDIA as an intern, and now partake in full-time research associated with LLMs, Robotics and self-study diffusion models (+ All the math behind these things).
 
-- 🌱 I’m currently learning: JAX ([see my Gists](https://gist.github.com/ghubnerr)), CUDA, the XLA API, and Automatic Differentiation 
-- 🍓 Working on a StyleGAN project for real-time video generation
+- 🌱 I’m currently learning: JAX ([see my Gists](https://gist.github.com/ghubnerr)), CUDA, the XLA API, and Diffusion Language Models
+- 🍓 Working on a [StyleGAN project](https://github.com/ghubnerr/aura) for real-time video generation and [interpreting dLLMs with SAEs](https://github.com/ghubnerr/llada-mech-interp)
 
 #### Latest Implementations
 - [GPT-2 (124M) From Scratch](https://gist.github.com/ghubnerr/941eeb2a6a518370277860126f1674c8) - Trained on 10% of OpenWebText sharded on 8 A100s using JAX. Optimized for KV-Caching, achieving linear token/s performance. (+ Bonus: Applied Pallas attention kernels to boost performance)
